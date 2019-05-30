@@ -5,8 +5,6 @@ import glob
 import os.path
 from __future__ import division
 import operator
-import matplotlib.pyplot as plt
-import numpy as numpy
 
 file = 'your txt file of OCR transcribed documents'
 
